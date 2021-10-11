@@ -12,10 +12,10 @@ There are numerous approaches to tackle this problem. At this stage, before addi
 
 ### File Description 
 ---
-test_results.py: Contains functions to evaluate the IRR and NIR values. Provided by Starbucks.
-Starbucks.ipynb: Contains code for the promotional strategy.
-training.csv: Contains training data.
-Test.csv: Contains test data.
+- test_results.py: Contains functions to evaluate the IRR and NIR values. Provided by Starbucks.
+- Starbucks.ipynb: Contains code for the promotional strategy.
+- training.csv: Contains training data.
+- Test.csv: Contains test data.
 
 ### Instruction 
 ---
